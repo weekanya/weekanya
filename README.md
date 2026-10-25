@@ -54,35 +54,25 @@
 
 <h3 align="center">✦ Stats ✦</h3>
 
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img width="100%" src="https://github-readme-stats-fast.vercel.app/api?username=weekanya&show_icons=true&include_all_commits=true&count_private=true&card_width=495&hide_border=true&border_radius=12&bg_color=16151f&title_color=d4a5ec&icon_color=d4a5ec&text_color=a89cb8&ring_color=d4a5ec" alt="GitHub Stats" />
-    </td>
-    <td align="center" width="50%">
-      <img width="100%" src="https://streak-stats.demolab.com/?user=weekanya&card_width=495&hide_border=true&border_radius=12&background=16151f&stroke=2e283d&ring=d4a5ec&fire=e8a2d8&currStreakLabel=d4a5ec&sideLabels=a89cb8&currStreakNum=e8e0f0&sideNums=e8e0f0&dates=847794" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img width="50%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=weekanya&layout=compact&langs_count=8&card_width=495&hide_border=true&border_radius=12&bg_color=16151f&title_color=d4a5ec&text_color=a89cb8" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-</div>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=weekanya&custom_title=weekanya%27s%20stats&show_icons=true&include_all_commits=true&count_private=true&card_width=495&border_radius=12&border_color=3b3350&bg_color=00000000&title_color=d4a5ec&icon_color=d4a5ec&text_color=a89cb8&ring_color=d4a5ec" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=weekanya&card_width=495&border_radius=12&border=3b3350&background=00000000&stroke=3b3350&ring=d4a5ec&fire=e8a2d8&currStreakLabel=d4a5ec&sideLabels=a89cb8&currStreakNum=e8e0f0&sideNums=e8e0f0&dates=847794" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img width="98.4%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=weekanya&layout=compact&langs_count=6&hide=html,makefile&card_width=1000&border_radius=12&border_color=3b3350&bg_color=00000000&title_color=d4a5ec&text_color=a89cb8" alt="Top Languages" />
+</p>
 
 <br />
 
 <h3 align="center">✦ Projects ✦</h3>
 
 <p align="center">
-  <a href="https://github.com/weekanya/Booru"><img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=weekanya&repo=Booru&show_owner=false&description_lines_count=2&border_radius=12&border_color=2e283d&bg_color=16151f&title_color=d4a5ec&icon_color=d4a5ec&text_color=a89cb8" alt="Booru" /></a>
-  <a href="https://github.com/weekanya/iFetch"><img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=weekanya&repo=iFetch&show_owner=false&description_lines_count=2&border_radius=12&border_color=2e283d&bg_color=16151f&title_color=d4a5ec&icon_color=d4a5ec&text_color=a89cb8" alt="iFetch" /></a>
+  <a href="https://github.com/weekanya/Booru"><img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=weekanya&repo=Booru&show_owner=false&description_lines_count=2&border_radius=12&border_color=3b3350&bg_color=00000000&title_color=d4a5ec&icon_color=d4a5ec&text_color=a89cb8" alt="Booru" /></a>
+  <a href="https://github.com/weekanya/iFetch"><img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=weekanya&repo=iFetch&show_owner=false&description_lines_count=2&border_radius=12&border_color=3b3350&bg_color=00000000&title_color=d4a5ec&icon_color=d4a5ec&text_color=a89cb8" alt="iFetch" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/weekanya/KSUN-builder"><img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=weekanya&repo=KSUN-builder&show_owner=false&description_lines_count=2&border_radius=12&border_color=2e283d&bg_color=16151f&title_color=d4a5ec&icon_color=d4a5ec&text_color=a89cb8" alt="KSUN-builder" /></a>
-  <a href="https://github.com/weekanya/ofrp_device_nothing_frogger"><img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=weekanya&repo=ofrp_device_nothing_frogger&show_owner=false&description_lines_count=2&border_radius=12&border_color=2e283d&bg_color=16151f&title_color=d4a5ec&icon_color=d4a5ec&text_color=a89cb8" alt="ofrp_device_nothing_frogger" /></a>
+  <a href="https://github.com/weekanya/KSUN-builder"><img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=weekanya&repo=KSUN-builder&show_owner=false&description_lines_count=2&border_radius=12&border_color=3b3350&bg_color=00000000&title_color=d4a5ec&icon_color=d4a5ec&text_color=a89cb8" alt="KSUN-builder" /></a>
+  <a href="https://github.com/weekanya/ofrp_device_nothing_frogger"><img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=weekanya&repo=ofrp_device_nothing_frogger&show_owner=false&description_lines_count=2&border_radius=12&border_color=3b3350&bg_color=00000000&title_color=d4a5ec&icon_color=d4a5ec&text_color=a89cb8" alt="ofrp_device_nothing_frogger" /></a>
 </p>
 
 <br />
